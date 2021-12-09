@@ -48,6 +48,7 @@ Found 11 qualifying loans
 ? Do you want to save the information about the qualifying loans? Yes
 ? Enter a file path to save the information: info
 The information is saved into the info.csv file.
+```
 ## Contributors
 Project author : A.Rubkevich
 Contact information : anastasiyarubkevich@github.com
