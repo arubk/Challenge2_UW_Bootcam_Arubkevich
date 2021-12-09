@@ -4,8 +4,8 @@ This repository contains the code for a CLI application to match applicants with
 
 ## Technologies
 The application is written in Python 3.9.7 and uses the following libraries:
--fire-0.4.0
--questionary-1.10.0
+* fire-0.4.0
+* questionary-1.10.0
 
 The application runs from the command line on Windows, Linux or Mac OS systems.
 
