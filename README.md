@@ -24,6 +24,7 @@ cd/home/user/loan_qualifier_app
 ```
 
 Run the CLI application by using the following command:
+```
 $ python app.py
 ```
 Depending on your local Python interpreter, change 'python' to 'python3', if needed.
