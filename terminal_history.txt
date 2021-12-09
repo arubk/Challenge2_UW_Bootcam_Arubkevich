@@ -1,0 +1,34 @@
+    1  hello
+    2  ls -al ~/.ssh
+    3  id_rsa.pub
+    4  ssh-keygen -t ed25519 -C "anastasiyarubkevich@gmail.com
+    5  Anastasiya Rubkevich
+    6  $ ssh-add ~/.ssh/id_ed25519
+    7  git status
+    8  git add
+    9  cd Documents
+   10  cd dev
+   11  cd Challenge2_UW_Bootcam_Arubkevich
+   12  git add .
+   13  git commit -m coding part
+   14  git commit -m
+   15  пше ыефегы
+   16  git status
+   17  git commit -m 'adding initial files'
+   18  git push
+   19  python --version
+   20  pip show questionary
+   21  pip install -r requirements.txt 
+   22  git add requirements.txt 
+   23  git commit -m 'adding requirements'
+   24  git push
+   25  git add README.md 
+   26  git commit -m 'adding README.md'
+   27  git push
+   28  git add README.md 
+   29  git commit -m 'minor changes'
+   30  git push
+   31  git add README.md 
+   32  git commit -m 'minor changes'
+   33  git push
+   34  history 50 > terminal_history.txt
