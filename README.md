@@ -51,8 +51,10 @@ The information is saved into the info.csv file.
 ```
 ## Contributors
 Project author : A.Rubkevich
+
 Contact information : anastasiyarubkevich@github.com
 
 ## License
 MIT License
+
 Copyright (c) 2021
